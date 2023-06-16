@@ -25,3 +25,10 @@ cd TC-DUMP
 ```
 python File.py
 ```
+
+
+##### 👀Repo Visitors
+
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/TC-DUMP/count.svg"/>
+</p>
