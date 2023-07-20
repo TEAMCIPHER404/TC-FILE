@@ -16,7 +16,7 @@ pkg install requests
 ```
 •Clone the tool's repository
 ```
-git clone https://github.com/TEAM-CIPHER-404/TC-DUMP
+git clone https://github.com/TEAMCIPHER404/TC-DUMP
 ```
 ```
 cd TC-DUMP
